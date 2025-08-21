@@ -1,5 +1,5 @@
 # SuperStore_Excel
-Projeto voltado para a Análise de dados de uma Rede de Supermercado utilizando Excel.
+Projeto voltado para a Análise de dados de uma Rede de Supermercado fictícia utilizando Excel. Todos os dados utilizados nesse projeto são de domínio público e não infringem nenhuma regra da Lei Geral de Proteção dos Dados.
 
 ## 1. Contexto
 A SuperStore, uma das maiores redes de supermercados do país, enfrenta desafios relacionados à retenção de clientes e à melhoria das suas estratégias de vendas. A empresa possui dados ricos sobre seus clientes, pedidos, localizações e produtos, mas precisa de uma análise detalhada para tomar decisões baseadas em dados. O time de gestão identificou três áreas principais para foco:
