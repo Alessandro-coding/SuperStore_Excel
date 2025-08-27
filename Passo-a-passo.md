@@ -57,10 +57,12 @@ Primeiramente, iremos criar uma planilha chamada *Análise_Cohort*, onde iremos 
 
 Logo, criamos uma tabela dinâmica usando a data da compra como linhas pelos meses decorridos como colunas e a soma distinta dos IDs dos clientes. Colocamos a soma para mostrar a % do total geral e obteremos um gráfico semelhante a esse:
 
-![](/Imagens/analise_cohort)
+![](/Imagens/analise_cohort.png)
 
 **Recomendações**
 
+O ano de 2014 é o mais representativo para se fazer a análise Cohort, pois foi onde a grande parte dos dados estão concentrados. Levando em conta esse contexto, os meses de maio, julho e setembro mostram uma retenção de clientes que se destaca em 2014, maior que 10%. 
 
+Eu recomendo que as estratégias utilizadas pelas áreas de marketing e vendas nos 2 períodos mencionados anteriormente sejam revisitadas, pois demonstram uma eficácia maior com base na análise Cohort feita com os dados. 
 
 # Segmentação RFM
